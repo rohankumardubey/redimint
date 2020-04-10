@@ -1,0 +1,19 @@
+package code
+
+const (
+	CodeTypeOK = iota
+	CodeTypeInvalidSign
+	CodeTypeInvalidValidator
+	CodeTypeEncodingError
+	CodeTypeRedimintQueryError
+	CodeTypeRedimintExecuteError
+	CodeTypeGetChainInfoError
+	CodeTypeInvalidExecuteMode
+	CodeTypeInvalidTx
+	CodeTypePermissionDenied
+	CodeTypeDBPasswordIncorrectError
+	CodeTypeTokenTimeoutError
+	CodeTypeTokenInvalidError
+	CodeTypeIncorrectPassword
+	CodeTypeInternalError
+)

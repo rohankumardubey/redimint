@@ -1,0 +1,13 @@
+tendermint
+redimint
+*.log
+.idea
+dump.rdb
+tendermint.sock
+chain
+db_transactions
+redimint_home/*
+service.sh
+conf/dockernode/*
+conf/docker2node/*
+conf/testnet/*
