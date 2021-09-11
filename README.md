@@ -2,6 +2,8 @@
 # Redimint
 
 K-V Storage System based on Redis and Tendermint
+
+(this project is now maintaining by [Cybervein](https://github.com/CyberVein-official/PISR_DATABASE))
  
 ## Architecture
 
