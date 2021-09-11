@@ -1,7 +1,5 @@
 
-# Redimint
-
-<p align="center"> K-V Storage System based on Redis and Tendermint </p>
+# Redimint (K-V Storage System based on Redis and Tendermint)
  
 ## Architecture
 
