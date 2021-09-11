@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://chenzhou-images.oss-cn-shanghai.aliyuncs.com/redimint.png" /></p>
+# Redimint
 
 <p align="center"> K-V Storage System based on Redis and Tendermint </p>
  
