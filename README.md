@@ -1,17 +1,11 @@
 
 <p align="center"><img src="https://chenzhou-images.oss-cn-shanghai.aliyuncs.com/redimint.png" /></p>
 
-<p align="center"> Redimint 是基于 Redis 和 Tendermint 区块链中间件的KV存储系统 </p>
-
-## 概述 
-
-### Rediminit数据存储逻辑
+<p align="center"> K-V Storage System based on Redis and Tendermint </p>
+ 
+## Architecture
 
 <p align="center"><img src="https://chenzhou-images.oss-cn-shanghai.aliyuncs.com/%E6%95%B0%E6%8D%AE%E5%AD%98%E5%82%A8%E8%AF%B4%E6%98%8E.png" /></p>
-
-### Redimint 架构
-
-<p align="center"><img src="https://chenzhou-images.oss-cn-shanghai.aliyuncs.com/%E6%95%B0%E6%8D%AE%E5%BA%93%E6%9E%B6%E6%9E%84%E5%9B%BE%20%283%29.png" /></p>
 
 ## Getting Started
 
@@ -293,13 +287,9 @@ $ curl -X POST http://localhost:30001/db/execute -H 'Content-Type: application/j
 $ ./redimint stop   
 ```
 
-## 使用文档
-
-> TODO
-
 ## Author
 
-* **Chen Zhou** - *Initial work* - [ChenZhou](https://github.com/BraydenChen)
+* **Chen Zhou** - *Initial work* - [ChenZhou](https://github.com/horoc)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
