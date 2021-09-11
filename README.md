@@ -1,22 +1,9 @@
 
 <p align="center"><img src="https://chenzhou-images.oss-cn-shanghai.aliyuncs.com/redimint.png" /></p>
 
-<p align="center"> Redimint 是基于 Redis 和 Tendermint 区块链中间件的去中心化KV数据库系统。</p>
+<p align="center"> Redimint 是基于 Redis 和 Tendermint 区块链中间件的KV存储系统 </p>
 
 ## 概述 
-
-### 目标
-
-- 为`DAPP (Decentralized Application)` 服务的数据库组件
-- 为多组织合作场景下数据库可信的需求提供去中心化数据库组件
-
-### Redimint 特性
-
-- 去中心设计，数据库集群不存在主节点，任何节点均可读写数据。
-- 通过与区块链相结合，保证任何节点的操作日志不可篡改，可信且可溯源。
-- 提供Commit, Private, Async三种数据更新模式，最大化TPS和最小化更新延迟。
-- 兼容几乎所有的Redis操作，使用学习成本低。
-- 插件化编程，提供插件接口，可定制化区块生成或操作执行中特定步骤的行为。
 
 ### Rediminit数据存储逻辑
 
@@ -25,13 +12,6 @@
 ### Redimint 架构
 
 <p align="center"><img src="https://chenzhou-images.oss-cn-shanghai.aliyuncs.com/%E6%95%B0%E6%8D%AE%E5%BA%93%E6%9E%B6%E6%9E%84%E5%9B%BE%20%283%29.png" /></p>
-
-### TODO
-
-- [X] Redis monitor
-- [ ] 使用文档完善
-- [ ] 性能测试
-- [ ] ... ...
 
 ## Getting Started
 
