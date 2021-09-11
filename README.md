@@ -5,7 +5,7 @@ K-V Storage System based on Redis and Tendermint
  
 ## Architecture
 
-<p align="center"><img src="https://github.com/horoc/redimint/blob/master/arch.png" /></p>
+<p><img src="https://github.com/horoc/redimint/blob/master/images/arch.png" width="500" height="260"/></p>
 
 ## Getting Started
 
